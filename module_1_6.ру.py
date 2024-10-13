@@ -19,3 +19,4 @@ my_set.remove(0) #False - как мы выяснили = 0
 print(my_set)
 my_set.discard('str')
 print(my_set)
+print(my_dict.get('fox'))
